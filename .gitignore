@@ -1,0 +1,19 @@
+# Version history files
+SWGEMU Damage Calculator_v*.htm
+
+# Zip files
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+
